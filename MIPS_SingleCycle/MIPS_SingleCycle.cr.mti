@@ -1,0 +1,122 @@
+C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux3.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux3.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux3
+
+Top level modules:
+	Mux3
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux4.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux4
+
+Top level modules:
+	Mux4
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/ProgramCounter.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/ProgramCounter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/Control.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/Control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/Add_ALU.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/Add_ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Add_ALU
+
+Top level modules:
+	Add_ALU
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/ALU.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/MIPSTop.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/MIPSTop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/Registers.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/Registers.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Registers
+-- Compiling module Registers_tb
+
+Top level modules:
+	Registers_tb
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/SignExtend.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/SignExtend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/ShiftLeft2.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/ShiftLeft2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/Add_PC.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/Add_PC.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Add_PC
+
+Top level modules:
+	Add_PC
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/ALUControl.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/ALUControl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/InstructionMemory.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/InstructionMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/DataMemory.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/DataMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux1.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux1
+
+Top level modules:
+	Mux1
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/AndGate.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/AndGate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AndGate
+
+Top level modules:
+	AndGate
+
+} {} {}} C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux2.v {1 {vlog -work work C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2
+
+Top level modules:
+	Mux2
+
+} {} {}}
