@@ -1,0 +1,384 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vAdd_ALU
+Z1 I6jiZK<=c6MId0Ma]kmnTR0
+Z2 VDNMYDM?Pim<=A4c:eTH160
+Z3 dC:\altera\13.1\MIPS\MIPS_SingleCycle
+Z4 w1738611627
+Z5 8C:/altera/13.1/MIPS/MIPS_SingleCycle/Add_ALU.v
+Z6 FC:/altera/13.1/MIPS/MIPS_SingleCycle/Add_ALU.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@add_@a@l@u
+Z10 !s100 Mh@fa:BJUk8>LNXW40ko`1
+Z11 !s108 1738612110.878000
+Z12 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/Add_ALU.v|
+Z13 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/Add_ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vAdd_PC
+Z14 IBj?L62:gABVIQOAdff1Kz1
+Z15 V2of9:z3ST=I53?KR774OL0
+R3
+Z16 w1738611648
+Z17 8C:/altera/13.1/MIPS/MIPS_SingleCycle/Add_PC.v
+Z18 FC:/altera/13.1/MIPS/MIPS_SingleCycle/Add_PC.v
+L0 1
+R7
+r1
+31
+R8
+Z19 n@add_@p@c
+Z20 !s100 B:;gJ0o5_U1:ii57m@>zX0
+Z21 !s108 1738612111.079000
+Z22 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/Add_PC.v|
+Z23 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/Add_PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z24 IH0eoNYk9OkB5BHO_7XgLM3
+Z25 VWZQz>?PBnTSCe;;4O4fIW3
+R3
+Z26 w1738611658
+Z27 8C:/altera/13.1/MIPS/MIPS_SingleCycle/ALU.v
+Z28 FC:/altera/13.1/MIPS/MIPS_SingleCycle/ALU.v
+L0 1
+R7
+r1
+31
+R8
+Z29 n@a@l@u
+Z30 !s100 9XP^UfkW4K7>9X]<NY3?l0
+Z31 !s108 1738612111.255000
+Z32 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/ALU.v|
+Z33 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALUControl
+Z34 I>:DGHh]7jZ[3``[e6:fR01
+Z35 VAb@TZ>1YV>;:I=P_R_81f3
+R3
+Z36 w1738611673
+Z37 8C:/altera/13.1/MIPS/MIPS_SingleCycle/ALUControl.v
+Z38 FC:/altera/13.1/MIPS/MIPS_SingleCycle/ALUControl.v
+L0 1
+R7
+r1
+31
+R8
+Z39 n@a@l@u@control
+Z40 !s100 WFUfXZP22Tc18McUdW:To0
+Z41 !s108 1738612111.453000
+Z42 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/ALUControl.v|
+Z43 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/ALUControl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vAndGate
+Z44 IE1DDD6?iQQ5]bPNe2L9lP3
+Z45 V772kMk5:IWD6=IgJ^WElh2
+R3
+Z46 w1738611683
+Z47 8C:/altera/13.1/MIPS/MIPS_SingleCycle/AndGate.v
+Z48 FC:/altera/13.1/MIPS/MIPS_SingleCycle/AndGate.v
+L0 1
+R7
+r1
+31
+R8
+Z49 n@and@gate
+Z50 !s100 G=iPa9VGBAkzD>3ePI0^d2
+Z51 !s108 1738612111.603000
+Z52 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/AndGate.v|
+Z53 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/AndGate.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl
+Z54 Ic[WSOT<7ag@5B:3AiPVE40
+Z55 V]mmRkcKj6K[dS7n:CB63Y2
+R3
+Z56 w1738611699
+Z57 8C:/altera/13.1/MIPS/MIPS_SingleCycle/Control.v
+Z58 FC:/altera/13.1/MIPS/MIPS_SingleCycle/Control.v
+L0 1
+R7
+r1
+31
+R8
+Z59 n@control
+Z60 !s100 EzcV0M`BClnH1X_4]7heH1
+Z61 !s108 1738612111.763000
+Z62 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/Control.v|
+Z63 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataMemory
+Z64 IIFji_MLE9<Khk9dW@LFCN1
+Z65 V@48J^h0PzHZiLIX8AmhdG3
+R3
+Z66 w1738611729
+Z67 8C:/altera/13.1/MIPS/MIPS_SingleCycle/DataMemory.v
+Z68 FC:/altera/13.1/MIPS/MIPS_SingleCycle/DataMemory.v
+L0 72
+R7
+r1
+31
+R8
+Z69 n@data@memory
+Z70 !s100 NFkMDce:ieXX?^?UW6Ld[2
+Z71 !s108 1738612112.123000
+Z72 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/DataMemory.v|
+Z73 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/DataMemory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vInstructionMemory
+Z74 I[?KCz]<XjXSQ5Cde?HWnV3
+Z75 VND]Z`;SDbEeWK8?ZHCNOM2
+R3
+Z76 w1738611739
+Z77 8C:/altera/13.1/MIPS/MIPS_SingleCycle/InstructionMemory.v
+Z78 FC:/altera/13.1/MIPS/MIPS_SingleCycle/InstructionMemory.v
+L0 1
+R7
+r1
+31
+R8
+Z79 n@instruction@memory
+Z80 !s100 0o[]?Yl_8jDnQ@mgfBmmj2
+Z81 !s108 1738612111.963000
+Z82 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/InstructionMemory.v|
+Z83 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/InstructionMemory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPS
+Z84 I2gW:Y=h9ikOPVDPFPaPM=2
+Z85 VSQl5UbEahQVC_9b4VNRe93
+R3
+Z86 w1738611759
+Z87 8C:/altera/13.1/MIPS/MIPS_SingleCycle/MIPSTop.v
+Z88 FC:/altera/13.1/MIPS/MIPS_SingleCycle/MIPSTop.v
+L0 1
+R7
+r1
+31
+Z89 !s108 1738612112.243000
+Z90 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/MIPSTop.v|
+Z91 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/MIPSTop.v|
+R8
+Z92 n@m@i@p@s
+Z93 !s100 `J@LNnTln;Eb[KE0Hdhj00
+!i10b 1
+!s85 0
+!s101 -O0
+vMux1
+Z94 I?H>E4f7;7eh4:JGE`5hG71
+Z95 VjZiQ@3WkL03g0iHY4mQe;1
+R3
+Z96 w1738611771
+Z97 8C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux1.v
+Z98 FC:/altera/13.1/MIPS/MIPS_SingleCycle/Mux1.v
+L0 1
+R7
+r1
+31
+R8
+Z99 n@mux1
+Z100 !s100 ^UPgm:DZIRmZU4H36zgG80
+Z101 !s108 1738612112.413000
+Z102 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux1.v|
+Z103 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux2
+Z104 ILkoF:U66d4Kg@fmK=DLOg2
+Z105 VbD2CbAjM2TlMf@e`5e8n]2
+R3
+Z106 w1738611785
+Z107 8C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux2.v
+Z108 FC:/altera/13.1/MIPS/MIPS_SingleCycle/Mux2.v
+L0 1
+R7
+r1
+31
+R8
+Z109 n@mux2
+Z110 !s100 IM5A7X7D5iE6Ai_9:4MY<3
+Z111 !s108 1738612112.578000
+Z112 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux2.v|
+Z113 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux3
+Z114 IOFJ`hV[6AE8BnFMLFVf1U3
+Z115 V9TS7Ed`Mb:?KmKO:z4ibF0
+R3
+Z116 w1738611800
+Z117 8C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux3.v
+Z118 FC:/altera/13.1/MIPS/MIPS_SingleCycle/Mux3.v
+L0 1
+R7
+r1
+31
+R8
+Z119 n@mux3
+Z120 !s100 UeDQ=RSNCkMcaMnk6X;oi2
+Z121 !s108 1738612112.718000
+Z122 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux3.v|
+Z123 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux3.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux4
+Z124 I0Qn56B04TdnI5k`_Kj;[j2
+Z125 V9HiTa0=P=C`@mez>]4LkO3
+R3
+Z126 w1738611814
+Z127 8C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux4.v
+Z128 FC:/altera/13.1/MIPS/MIPS_SingleCycle/Mux4.v
+L0 1
+R7
+r1
+31
+R8
+Z129 n@mux4
+Z130 !s100 8@Mc0WZD[2<34U;_8SUhO2
+Z131 !s108 1738612112.873000
+Z132 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux4.v|
+Z133 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/Mux4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgramCounter
+Z134 IE@Uz6SLc>KRU8@X_nUD[b3
+Z135 Vm[gYMM7GH89cefmJmN[d33
+R3
+Z136 w1738611828
+Z137 8C:/altera/13.1/MIPS/MIPS_SingleCycle/ProgramCounter.v
+Z138 FC:/altera/13.1/MIPS/MIPS_SingleCycle/ProgramCounter.v
+L0 1
+R7
+r1
+31
+R8
+Z139 n@program@counter
+Z140 !s100 X^HF_F;>eQJ`Rj6>VR2iA3
+Z141 !s108 1738612113.038000
+Z142 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/ProgramCounter.v|
+Z143 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/ProgramCounter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisters
+Z144 IAnjn>bQkC9_=[49cZUEA_2
+Z145 VOaIg^8ANBaBE]UKbhCezS3
+R3
+Z146 w1738611843
+Z147 8C:/altera/13.1/MIPS/MIPS_SingleCycle/Registers.v
+Z148 FC:/altera/13.1/MIPS/MIPS_SingleCycle/Registers.v
+L0 1
+R7
+r1
+31
+Z149 !s108 1738612113.208000
+Z150 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/Registers.v|
+Z151 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/Registers.v|
+R8
+Z152 n@registers
+Z153 !s100 jMUE^m]1o69fEc01X_Y3H0
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisters_tb
+Z154 IeQHFfkYn0bQHbQY<gGI`V3
+Z155 V;z<aOXC;9SX^JfzDPi4ML0
+R3
+R146
+R147
+R148
+L0 44
+R7
+r1
+31
+R149
+R150
+R151
+R8
+Z156 n@registers_tb
+Z157 !s100 PPifS4AFSYGCgldE6c2Mk1
+!i10b 1
+!s85 0
+!s101 -O0
+vShiftLeft2
+Z158 IOM?Jl9PE9CG;h6eNBzRHl3
+Z159 V9fc]WY]`YGO;Ym=_hB@go1
+R3
+Z160 w1738611856
+Z161 8C:/altera/13.1/MIPS/MIPS_SingleCycle/ShiftLeft2.v
+Z162 FC:/altera/13.1/MIPS/MIPS_SingleCycle/ShiftLeft2.v
+L0 1
+R7
+r1
+31
+R8
+Z163 n@shift@left2
+!i10b 1
+Z164 !s100 ;K5Eg8ceK@O1ecXXW59?:3
+!s85 0
+Z165 !s108 1738612113.418000
+Z166 !s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/ShiftLeft2.v|
+Z167 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/ShiftLeft2.v|
+!s101 -O0
+vSignExtend
+!i10b 1
+!s100 Z3MQVz_1bb6[_Sz0nH4lM3
+IfY5LK:h:8k6UO0XL`AYC20
+VeE4`S3Nok6WEYQBhH`z?:3
+R3
+w1738611874
+8C:/altera/13.1/MIPS/MIPS_SingleCycle/SignExtend.v
+FC:/altera/13.1/MIPS/MIPS_SingleCycle/SignExtend.v
+L0 18
+R7
+r1
+!s85 0
+31
+!s108 1738612113.595000
+!s107 C:/altera/13.1/MIPS/MIPS_SingleCycle/SignExtend.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/MIPS/MIPS_SingleCycle/SignExtend.v|
+!s101 -O0
+R8
+n@sign@extend
+vtestbench
+Z168 IDdTlPFGg7=IOdXgDVF>o:2
+Z169 VhGfW:390DM[oDMzegDH9`2
+R3
+R86
+R87
+R88
+Z170 L0 180
+R7
+r1
+31
+R89
+R90
+R91
+R8
+Z171 !s100 mj1AHV[>`]<3PbYzn^WDW3
+!i10b 1
+!s85 0
+!s101 -O0
